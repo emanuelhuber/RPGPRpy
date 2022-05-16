@@ -1,5 +1,12 @@
 # RPGPRpy
-Python wrapper for RGPR (ground-penetrating radar visualisation &amp; processing)
+Python wrapper for RGPR (ground-penetrating radar visualisation &amp; processing).
+
+*** 
+**Work in progress!**
+***
+
+You find RGPR an interesting package for GPR (ground-penetrating radar) data processing but you do not like the R language... `RGPRpy` may be an alternative for you...
+
 
 ```py
 # -*- coding: utf-8 -*-
